@@ -6,7 +6,9 @@ Background: our company mainly uses excel file to record staff information and r
 
 Technologies used:
 Java Swing, multi-threading
+
 Library: Apache POI, Apache Common IO
+
 Data Structure: Tree
 
 How it works:
